@@ -37,4 +37,4 @@ Write one of the following commands in the shell
 
     16. exit (exits the shell)
 
-The files for these commands are located in fucntion folder
+The files for these commands are located in function folder
